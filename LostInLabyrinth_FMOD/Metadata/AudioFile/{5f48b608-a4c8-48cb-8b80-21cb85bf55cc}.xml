@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{5f48b608-a4c8-48cb-8b80-21cb85bf55cc}">
+        <property name="assetPath">
+            <value>Sfx/Physics/Light/Phy_Hedge_L_08.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.0625</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{5798b879-2286-43eb-9fbb-4c7b97985510}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EventFolder" id="{90338910-beda-41a4-9622-7cab70636e31}">
+        <property name="name">
+            <value>Hedge</value>
+        </property>
+        <relationship name="folder">
+            <destination>{6f37b633-405a-48fc-a077-4c062a83ae65}</destination>
+        </relationship>
+    </object>
+</objects>

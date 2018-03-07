@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{a435411d-eb6c-4b40-a3a5-082ae1242d9d}">
+        <property name="assetPath">
+            <value>Sfx/Footsteps/Fst_Player_30.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.49607291666666664</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{5798b879-2286-43eb-9fbb-4c7b97985510}</destination>
+        </relationship>
+    </object>
+</objects>
