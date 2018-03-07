@@ -17,6 +17,8 @@
     <object class="MixerBusEffectChain" id="{1aa769ef-a4e1-4e39-9dd8-924848aac428}">
         <relationship name="effects">
             <destination>{21d73759-aa00-41ec-8728-f7544f886aa7}</destination>
+            <destination>{e04b5035-ae85-446c-b004-49acce606189}</destination>
+            <destination>{f4b3fa45-dac2-44b8-a721-fd46159084bc}</destination>
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{b0aff21d-8904-4896-b190-c878363a33ef}">
@@ -28,4 +30,29 @@
         </property>
     </object>
     <object class="MixerBusFader" id="{21d73759-aa00-41ec-8728-f7544f886aa7}"/>
+    <object class="CompressorEffect" id="{e04b5035-ae85-446c-b004-49acce606189}">
+        <property name="threshold">
+            <value>-13</value>
+        </property>
+        <property name="attackTime">
+            <value>5</value>
+        </property>
+        <property name="releaseTime">
+            <value>50</value>
+        </property>
+        <property name="linkChannels">
+            <value>false</value>
+        </property>
+    </object>
+    <object class="LimiterEffect" id="{f4b3fa45-dac2-44b8-a721-fd46159084bc}">
+        <property name="boost">
+            <value>3</value>
+        </property>
+        <property name="ceiling">
+            <value>-0.199999988</value>
+        </property>
+        <property name="linkChannels">
+            <value>false</value>
+        </property>
+    </object>
 </objects>

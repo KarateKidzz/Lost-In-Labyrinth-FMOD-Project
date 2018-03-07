@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="Snapshot" id="{5d4d5d48-85b1-4af3-b080-835f0e068a31}">
+        <relationship name="uiLastParameterSelection">
+            <destination>{59f72687-e768-4e99-a15d-8d6de78a2668}</destination>
+        </relationship>
+    </object>
+    <object class="EventAutomatableProperties" id="{b0417037-4033-4d1a-882e-8c40e1a83ff2}"/>
+    <object class="MarkerTrack" id="{586621b4-e736-4e75-b6fe-54588ac46f29}"/>
+    <object class="Timeline" id="{59f72687-e768-4e99-a15d-8d6de78a2668}"/>
+    <object class="SnapshotMasterTrack" id="{65fd7dd7-6dd7-43d0-a2fe-f73665b9cf11}"/>
+    <object class="SnapshotProperty" id="{17aa5b60-6df3-4bf7-a629-660ca3146279}"/>
+    <object class="SnapshotTrack" id="{faf277d8-b243-400d-a189-9fb4923e1d62}"/>
+    <object class="ADSRModulator" id="{72ff532e-8b00-476a-adb2-5bef60d39711}"/>
+</objects>

@@ -61,5 +61,6 @@
     <object class="MixerBusEffectChain" id="{5d52bc2e-9828-452c-b2c3-9c922e013394}"/>
     <object class="MixerBusPanner" id="{5f369500-d41c-4b18-a5eb-677e5aa072fc}"/>
     <object class="MixerBusFader" id="{4f8dbba3-a8f2-4b98-a265-422cdd3938e7}"/>
+    <object class="MixerSend" id="{7baa19fe-238d-45ab-b7a5-a988477ebc55}"/>
     <object class="MixerBusFader" id="{3179e884-5c54-45d4-8f48-966546ddf96b}"/>
 </objects>
