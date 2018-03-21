@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="AudioFile" id="{e8d7957f-344b-4fdb-9c9e-77b3f20637a8}">
         <property name="assetPath">
-            <value>Sfx/Physics/Medium/Phy_Hedge_M_01.wav</value>
+            <value>Sfx/Physics/Hedge/Medium/Phy_Hedge_M_01.wav</value>
         </property>
         <property name="frequencyInKHz">
             <value>96</value>
